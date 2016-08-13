@@ -1,0 +1,19 @@
+#head{
+    height: 40px;
+    background-color: black;
+}
+
+.banner-text{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-left: 190px;
+    font-family: champagne;
+}
+
+#error{
+    color: red;
+    font-size: 20px;
+    
+}
+

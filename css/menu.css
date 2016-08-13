@@ -1,0 +1,57 @@
+#menu {
+    height: 1000px;
+    background-color: #222222;
+}
+
+.item{
+    font-family: champagne;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 50px;
+    text-align: right;
+    color: white;
+    -webkit-transition: all linear .5s;
+    transition: all linear .3s;
+}
+
+#ubv-logo2{
+    margin-top: 40px;
+    margin-left: 20px;
+    //margin-left: 10px;
+    height:140px;
+    width: 140px;
+    background-image: url(../img/ubv-logo.jpg);
+    background-size: 100% 100%;
+    border-radius: 20%;
+}
+
+#menu-titulo{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.item:hover
+{
+    background-color: #666666;
+    border-radius: 5px;
+}
+
+
+.resaltar{
+    background-color: #444444;
+    border-radius: 5px; 
+}
+
+
+.panelmio {
+border: none;
+font-size: 20px;
+background-color: #222222;
+font-family: champagne;
+color: white;   
+text-align: right;
+}
+
+

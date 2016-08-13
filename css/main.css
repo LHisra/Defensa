@@ -1,0 +1,10 @@
+* {
+    // border: dashed 1px red; 
+    
+}
+
+@font-face
+{
+font-family:champagne;
+src:url("../font/Champagne.ttf");
+}

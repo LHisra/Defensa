@@ -1,0 +1,7 @@
+upper mayusculas varchar
+length cuantos caracteres varchar
+instr buscar letra
+lpad colocar asteriscos en los espacios blancos en una columna en el lado izquierdo
+rpad colocar asteriscos en los espacios blancos en una columna en el lado derecho
+lower minusculas
+substr buscar caracter o numero requerido
